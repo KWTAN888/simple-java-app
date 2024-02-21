@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Jenkin is Crap tool !");
+        System.out.println("Testing out webhook");
     }
 
     public String getMessage() {
